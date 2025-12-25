@@ -1,7 +1,7 @@
 import React from 'react'
 import Banner from './Banner'
 import HomeCategory from './HomeCategory'
-import CategoryShowCase from "./CategoryShowCaseategoryShowCase";
+import CategoryShowCase from "./CategoryShowCase";
 
 import Register from './Register'
 import LocationSprade from './LocationSprade'
